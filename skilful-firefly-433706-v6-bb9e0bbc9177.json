@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skilful-firefly-433706-v6",
+  "private_key_id": "bb9e0bbc9177ae9fa8fefa295276fabcaee3d82e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4j/E0M9VvUzq+\nkvlvtBmeYa3gOD6l3fRt4rSjZMAoa0+9X5AgxCF7VaHLYrn4ZNvvxWbRJmZ/XDWs\nwwlq3JrOWSCXLEKs8BZrfaZ1jNMrgnqiDy0KOtEr7XQ3i0xdpwufe07uVs2HTgK3\nllc6wQOi/8oCYWNWcQ7yUSdODfaScTuecVWhWFySgTJBofQM5Tewh8xsB+aRrLS7\nQeeiQqxcNFPkynOlwd/R/oTTwYvwrlDVwlnbR3dzrcsNf17QSL8F2RjgVLwJNbi9\nTdbGxR577EXLtIVB+lL96/G3HoHQKJrjNN80k/6DreVGPfPMcsCKPWJTzEck1xss\nf3z53R3fAgMBAAECggEABPhzcYl31RCzw1AoAZcjHX3Z9fDt1v+8Rn1VihT7i9sg\nAaSiOA+wKycqPVUCVys4NSPm2fkjx4hPNcDm7wbT8Hy8APZDMW8h23E922qYgVJ5\nRQYNm3nsCjfR6nEI9Hi8OmZSwN57mIpETndxD/cExw4GfbvrtfdDhMkkuthrbJQu\nZpQ+TLCPP/ELjSU+1hHy4SfLujhZ2n+KkxJDDeKeuJnwWIlP1tIzn1LaKbajLSNr\noawaVW/haZf5zh3+Rnbmp/llLYArJDHaVRTrIVtSGnzReTdYy+Vp1a6mUFdoN3p2\nCvkt2sTRVmTh0PzQLbQd3VYItxjvqw6zFkfN+k8IAQKBgQDZ+uia9uutce7Dgdn2\ntKiXh37LltVyaaN8eNsPYsp4FdQ1Zdn7jehOnKZZ516+AC6lupYLMJN0nhUBUJce\nlpeQc7SX6OG328sJYH3DR261qpjRRvvJV4epbTPRym0M4pQvpz4/xO58wZrth1k6\nk+9/n4o/TLAuxb9baO0zlV+MAQKBgQDYwOJiDfGyY/lXXqHYmmhKbNEtyy2C+Pwn\nx91Tg0BrgQWeyh75KWTjhC2+o7+ly5JEZxGeXKOkogzow3agLVaDSzWYxMd7o8Wx\n+5kTBbn8pM8umlvnrvM1hHclb/9DfDQI+joXrxPeaNdTJC/U2VJv2EtHahRMAewS\nAYUyBjYp3wKBgBg9htB01RCcsuia8Bo3TOhM8RTC2Um35a5Z4kJ7wfhItSibAvqu\ndT8IvJcS275VVtqnPThRVpSJX9ydkbCdHo250EN0amV/07xfNp0YvH8HUac0NZvW\nWAfHVRPnZukf6UrDVnDQ/ZRyE0CG5K1W9jNDEqSnapBI/Va0/GvYGKABAoGAJnRZ\n9YF5zudTtj9wwUfrlsClf9VbFrBrs/cOeiGADVKPl7NOOXAxmPe7UeYlOxnZsk8C\n3jCbS7sARU9gPVyty49NS/QlW/cbPM9hQfGzJHJs21zBT2JHfcgphzfOdr+TT8Bt\nDASgpsW85eA2qDGCIZujB2F3hmCU7EDey5g0hcsCgYBmf4OO+Qb5enFlB2HDWhol\n0onE68fXgTMjbG5qAOVMdeDHiAiXVgjWzu4HvzBLwm9pimhnCcKZpadd6vSUjx6T\nl4G2Ckv0FLmovpMnwf78JEcL3+n0XSwFZqrI7JXiTfvOgHRJWTJ5Nheiv5gJQ1n3\ngP5v9Alv/F4Lg1vY7NQmNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "learnix@skilful-firefly-433706-v6.iam.gserviceaccount.com",
+  "client_id": "114010796440659453139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learnix%40skilful-firefly-433706-v6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
