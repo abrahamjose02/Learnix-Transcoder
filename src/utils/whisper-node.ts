@@ -2,7 +2,7 @@ import { SpeechClient, protos } from '@google-cloud/speech';
 import * as fs from 'fs';
 
 // Set the GOOGLE_APPLICATION_CREDENTIALS environment variable
-process.env.GOOGLE_APPLICATION_CREDENTIALS = 'D:\\Coding\\Learnix E -learn\\Microservice\\Learnix Trancode\\skilful-firefly-433706-v6-bb9e0bbc9177.json';
+process.env.GOOGLE_APPLICATION_CREDENTIALS = 'D:\\Coding\\Learnix E -learn\\Microservice\\Learnix Trancode\\still-bank-434714-p2-6b527d9f1e59.json';
 
 const client = new SpeechClient();
 
