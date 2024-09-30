@@ -7,7 +7,7 @@ import crypto from "crypto";
 
 
 // Ensure ffmpegStatic is not null
-const ffmpegPath = "C:\\ffmpeg\\ffmpeg-master-latest-win64-gpl\\bin\\ffmpeg.exe";
+const ffmpegPath = "/usr/bin/ffmpeg";  
 if (!ffmpegPath) {
   throw new Error(
     "FFmpeg binary not found. Please ensure ffmpeg-static is installed correctly."
